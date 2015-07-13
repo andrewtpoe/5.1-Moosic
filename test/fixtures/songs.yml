@@ -1,0 +1,9 @@
+one:
+  title: "Two Hearts"
+  length: 200
+  artist_id: 1
+
+two:
+  title: "Hand Grenades and Heartbreak"
+  length: 180
+  artist_id: 2
